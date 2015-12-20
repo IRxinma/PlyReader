@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1450631111 source:c:\users\user\desktop\ply reader\plyreader\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<sstream>
+	<iterator>
+	<vector>
+
+1450631706 source:c:\users\user\desktop\ply reader\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<sstream>
+	<iterator>
+	<vector>
+
